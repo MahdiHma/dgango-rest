@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snippest/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="7535000" />
+      <workItem from="1575012521394" duration="8545000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575051801238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="snippet">
+      <created>1575057054071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575057054071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="app started" />
     <MESSAGE value="serializers tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="serializers tutorial" />
+    <MESSAGE value="snippet" />
+    <option name="LAST_COMMIT_MESSAGE" value="snippet" />
   </component>
 </project>
