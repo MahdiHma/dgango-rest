@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snippest/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippest/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/serializer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="8545000" />
+      <workItem from="1575012521394" duration="10435000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
@@ -119,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575057054071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="snippetSerializer">
+      <created>1575058041019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575058041019</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +151,7 @@
     <MESSAGE value="app started" />
     <MESSAGE value="serializers tutorial" />
     <MESSAGE value="snippet" />
-    <option name="LAST_COMMIT_MESSAGE" value="snippet" />
+    <MESSAGE value="snippetSerializer" />
+    <option name="LAST_COMMIT_MESSAGE" value="snippetSerializer" />
   </component>
 </project>
