@@ -4,7 +4,7 @@
     <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="3869000" />
+      <workItem from="1575012521394" duration="7535000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574790118732</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="serializers tutorial">
+      <created>1575051801238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575051801238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="app started" />
-    <option name="LAST_COMMIT_MESSAGE" value="app started" />
+    <MESSAGE value="serializers tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="serializers tutorial" />
   </component>
 </project>
