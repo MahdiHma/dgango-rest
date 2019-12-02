@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="urls added">
+    <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="17110000" />
+      <workItem from="1575012521394" duration="20812000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
@@ -155,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575063119788</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="format suffix added">
+      <created>1575276047180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575276047180</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +190,7 @@
     <MESSAGE value="snippet view" />
     <MESSAGE value="snippet individual actions added" />
     <MESSAGE value="urls added" />
-    <option name="LAST_COMMIT_MESSAGE" value="urls added" />
+    <MESSAGE value="format suffix added" />
+    <option name="LAST_COMMIT_MESSAGE" value="format suffix added" />
   </component>
 </project>
