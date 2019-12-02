@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
+    <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="urls added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="16607000" />
+      <workItem from="1575012521394" duration="17110000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
