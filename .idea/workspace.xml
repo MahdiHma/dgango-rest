@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87fa2fee-4a8c-403a-b9da-2fc4854193dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippest/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574789237589</updated>
       <workItem from="1574789238687" duration="12360000" />
-      <workItem from="1575012521394" duration="21908000" />
+      <workItem from="1575012521394" duration="22506000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1574789690004</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575287560833</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="edited">
+      <created>1575288687584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575288687584</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +206,7 @@
     <MESSAGE value="urls added" />
     <MESSAGE value="format suffix added" />
     <MESSAGE value="view classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="view classes added" />
+    <MESSAGE value="edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited" />
   </component>
 </project>
