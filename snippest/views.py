@@ -13,7 +13,7 @@ from snippest.models import Snippet
 from snippest.serializer import SnippetSerializer
 
 
-class SnippetList(mixins.CreateModelMixin, mixins.ListModelMixin, generics.GenericAPIView)
+class SnippetList(mixins.CreateModelMixin, mixins.ListModelMixin, generics.GenericAPIView):
     serializer_class = SnippetSerializer
     queryset = Snippet.objects.all()
 
