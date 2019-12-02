@@ -13,7 +13,7 @@ from snippest.models import Snippet
 from snippest.serializer import SnippetSerializer
 
 
-class SnippetView(APIView):
+class SnippetList(APIView):
     def get(self, request, format=None):
         snippet = Snippet.objects.all()
         serializer = SnippetSerializer(snippet, many=True)
